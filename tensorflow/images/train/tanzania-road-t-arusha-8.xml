@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MotorCycle</folder>
+	<filename>tanzania-road-t-arusha-8.jpeg</filename>
+	<path>C:\Users\Maaz Shahid\Desktop\TF2\TFODCourse\Tensorflow\workspace\images\collectedimages\MotorCycle\tanzania-road-t-arusha-8.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MotorCycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>225</xmin>
+			<ymin>324</ymin>
+			<xmax>381</xmax>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+</annotation>

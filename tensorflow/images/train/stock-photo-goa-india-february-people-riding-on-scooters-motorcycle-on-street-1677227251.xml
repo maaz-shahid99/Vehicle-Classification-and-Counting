@@ -1,0 +1,38 @@
+<annotation>
+	<folder>MotorCycle</folder>
+	<filename>stock-photo-goa-india-february-people-riding-on-scooters-motorcycle-on-street-1677227251.jpeg</filename>
+	<path>C:\Users\Maaz Shahid\Desktop\TF2\TFODCourse\Tensorflow\workspace\images\collectedimages\MotorCycle\stock-photo-goa-india-february-people-riding-on-scooters-motorcycle-on-street-1677227251.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1101</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MotorCycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>588</ymin>
+			<xmax>514</xmax>
+			<ymax>945</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>MotorCycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>794</xmin>
+			<ymin>447</ymin>
+			<xmax>842</xmax>
+			<ymax>525</ymax>
+		</bndbox>
+	</object>
+</annotation>

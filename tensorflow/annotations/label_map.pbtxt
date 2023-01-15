@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'HeavyVehicle'
+}
+
+item {
+    id: 2
+    name: 'LightVehicle'
+}
+
+item {
+    id: 3
+    name: 'MotorCycle'
+}

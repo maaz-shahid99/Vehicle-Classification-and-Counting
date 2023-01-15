@@ -1,0 +1,26 @@
+<annotation>
+	<folder>HeavyVehicle</folder>
+	<filename>Several-semi-trucks-on-the-highway-june112020.jpeg</filename>
+	<path>C:\Users\Maaz Shahid\Desktop\TF2\TFODCourse\Tensorflow\workspace\images\collectedimages\HeavyVehicle\Several-semi-trucks-on-the-highway-june112020.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>667</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HeavyVehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>435</xmin>
+			<ymin>278</ymin>
+			<xmax>708</xmax>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>

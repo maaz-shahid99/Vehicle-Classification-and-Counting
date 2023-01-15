@@ -1,0 +1,38 @@
+<annotation>
+	<folder>HeavyVehicle</folder>
+	<filename>ghjk.jpeg</filename>
+	<path>C:\Users\Maaz Shahid\Desktop\TF2\TFODCourse\Tensorflow\workspace\images\collectedimages\HeavyVehicle\ghjk.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>670</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HeavyVehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>334</ymin>
+			<xmax>197</xmax>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>HeavyVehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>24</xmin>
+			<ymin>366</ymin>
+			<xmax>94</xmax>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+</annotation>

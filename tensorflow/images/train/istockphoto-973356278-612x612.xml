@@ -1,0 +1,26 @@
+<annotation>
+	<folder>HeavyVehicle</folder>
+	<filename>istockphoto-973356278-612x612.jpeg</filename>
+	<path>C:\Users\Maaz Shahid\Desktop\TF2\TFODCourse\Tensorflow\workspace\images\collectedimages\HeavyVehicle\istockphoto-973356278-612x612.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>612</width>
+		<height>459</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HeavyVehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>343</xmin>
+			<ymin>123</ymin>
+			<xmax>447</xmax>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+</annotation>

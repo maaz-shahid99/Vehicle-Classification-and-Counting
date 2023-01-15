@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MotorCycle</folder>
+	<filename>121784-b18040141325949ff1906a26c9bb7b62.jpeg</filename>
+	<path>C:\Users\Maaz Shahid\Desktop\TF2\TFODCourse\Tensorflow\workspace\images\collectedimages\MotorCycle\121784-b18040141325949ff1906a26c9bb7b62.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>796</width>
+		<height>379</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MotorCycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>316</xmin>
+			<ymin>151</ymin>
+			<xmax>402</xmax>
+			<ymax>322</ymax>
+		</bndbox>
+	</object>
+</annotation>

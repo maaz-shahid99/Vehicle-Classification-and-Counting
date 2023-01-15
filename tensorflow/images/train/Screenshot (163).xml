@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>Screenshot (163).png</filename>
+	<path>C:\Users\Maaz Shahid\Desktop\pics\TFODCourse\Tensorflow\workspace\images\collectedimages\train\Screenshot (163).png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MotorCycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1206</xmin>
+			<ymin>825</ymin>
+			<xmax>1276</xmax>
+			<ymax>1001</ymax>
+		</bndbox>
+	</object>
+</annotation>

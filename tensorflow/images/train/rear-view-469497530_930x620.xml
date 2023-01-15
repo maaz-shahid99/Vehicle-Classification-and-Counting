@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MotorCycle</folder>
+	<filename>rear-view-469497530_930x620.jpeg</filename>
+	<path>C:\Users\Maaz Shahid\Desktop\TF2\TFODCourse\Tensorflow\workspace\images\collectedimages\MotorCycle\rear-view-469497530_930x620.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>930</width>
+		<height>620</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MotorCycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>60</ymin>
+			<xmax>637</xmax>
+			<ymax>576</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>HeavyVehicle</folder>
+	<filename>150723122647-india-truck-art-front-jodhpur-full-169bnm.jpeg</filename>
+	<path>C:\Users\Maaz Shahid\Desktop\TF2\TFODCourse\Tensorflow\workspace\images\collectedimages\HeavyVehicle\150723122647-india-truck-art-front-jodhpur-full-169bnm.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>HeavyVehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>190</ymin>
+			<xmax>597</xmax>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+</annotation>

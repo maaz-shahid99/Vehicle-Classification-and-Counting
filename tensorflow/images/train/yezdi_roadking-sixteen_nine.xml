@@ -1,0 +1,26 @@
+<annotation>
+	<folder>MotorCycle</folder>
+	<filename>yezdi_roadking-sixteen_nine.jpeg</filename>
+	<path>C:\Users\Maaz Shahid\Desktop\TF2\TFODCourse\Tensorflow\workspace\images\collectedimages\MotorCycle\yezdi_roadking-sixteen_nine.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>390</width>
+		<height>280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MotorCycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>178</xmin>
+			<ymin>97</ymin>
+			<xmax>257</xmax>
+			<ymax>246</ymax>
+		</bndbox>
+	</object>
+</annotation>

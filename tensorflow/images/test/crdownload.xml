@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>crdownload.jpeg</filename>
+	<path>C:\Users\Maaz Shahid\Desktop\TF2\TFODCourse\Tensorflow\workspace\images\collectedimages\test\crdownload.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>384</width>
+		<height>260</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>MotorCycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>131</ymin>
+			<xmax>315</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+</annotation>
